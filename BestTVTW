@@ -1,22 +1,42 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="",1. 三立综合台
+#EXTINF:-1 group-title="",1 三立综合台
 https://epg.pw/stream/a8ac5d3aecc3d2cb028c5ea5e2b21dd1c54221c0609b327dc365590777d68ac0.ctv
-#EXTINF:-1 group-title="",2. 三立iNEWS HD
+#EXTINF:-1 group-title="",2 三立iNEWS HD
 https://epg.pw/stream/3c146435ef9d3b87ac146153a0b0dc96939c7a22fecb3399db5c85e9d72a975b.m3u8
-
-三立综合台@@1[1280x720][20230126],https://epg.pw/stream/210c18d7c67fb6da425594ff72ce270c323d194d29bd0f3af7e341137faf57d4.m3u8
-
-三立综合台@@3[1280x720][20230126],https://epg.pw/stream/3e27660521bde48f22dd5aaaf3521c7900622e8f978df41228470243da5845d2.m3u8
-
-三立戏剧[1280x720][20230125],https://epg.pw/stream/b3d1a9fc9c9aa548058f11a0135468b2415831f5581b74c1916cefe38fd45474.ctv
-
-三立綜合[1280x720][20230125],https://epg.pw/stream/a9377b196f929200a3b842cd826f393bf9683d000c0d39f5d3139d925408fc58.ctv
-
-三立台湾[1920x1080][20230122],https://epg.pw/stream/a417125c2505ec55aad02ef93441ed6afcab1ae01e245efe80ca301f9a0f2dad.ctv
-
-三立戏剧台[1280x720][20230122],https://epg.pw/stream/7b470f308ed98c5ca5f22dcf643cda6768b0506004ea41ceb265be36191b337b.ctv
-
-三立iNEWS HD@@3[1920x1080][20230119],https://epg.pw/stream/514371f7643817b1b0b31b3793f19960a438b64a86d13add735a012836730aa2.ctv
-
-LIVE三立[1920x1080][20230114],https://epg.pw/stream/200ebec110744b686a668664ef30df637c395f12c3169a2b5e21996c8c7dc6ac.m3u8
+#EXTINF:-1 group-title="",3 三立综合台
+https://epg.pw/stream/210c18d7c67fb6da425594ff72ce270c323d194d29bd0f3af7e341137faf57d4.m3u8
+#EXTINF:-1 group-title="",4 三立综合台
+https://epg.pw/stream/3e27660521bde48f22dd5aaaf3521c7900622e8f978df41228470243da5845d2.m3u8
+#EXTINF:-1 group-title="",5 三立戏剧
+https://epg.pw/stream/b3d1a9fc9c9aa548058f11a0135468b2415831f5581b74c1916cefe38fd45474.ctv
+#EXTINF:-1 group-title="",6 三立综合台
+https://epg.pw/stream/a9377b196f929200a3b842cd826f393bf9683d000c0d39f5d3139d925408fc58.ctv
+#EXTINF:-1 group-title="",7 三立综合台
+https://epg.pw/stream/a417125c2505ec55aad02ef93441ed6afcab1ae01e245efe80ca301f9a0f2dad.ctv
+#EXTINF:-1 group-title="",8 三立戏剧台
+https://epg.pw/stream/7b470f308ed98c5ca5f22dcf643cda6768b0506004ea41ceb265be36191b337b.ctv
+#EXTINF:-1 group-title="",9 三立iNEWS HD@@3
+https://epg.pw/stream/514371f7643817b1b0b31b3793f19960a438b64a86d13add735a012836730aa2.ctv
+#EXTINF:-1 group-title="",10 LIVE三立
+https://epg.pw/stream/200ebec110744b686a668664ef30df637c395f12c3169a2b5e21996c8c7dc6ac.m3u8
+#EXTINF:-1 group-title="",11 EYE戲劇台@@1
+https://epg.pw/stream/98787453e5c45d8301a803c2b113f79fbb04f344052603fc440dd91b94b409ce.m3u8
+#EXTINF:-1 group-title="",12 八大戲劇台HD@@3
+https://epg.pw/stream/f0a24531f55b71b1c84e60cb549c83a4c7ea1ed0712d6ac73df81153b2f6cb55.m3u8
+#EXTINF:-1 group-title="",13 龙华戏剧
+https://epg.pw/stream/f89073f9650726b798dae8e7c0322975e36a91d9184a3a308edf01624e124604.ctv
+#EXTINF:-1 group-title="",14 EYE TV戏剧
+https://epg.pw/stream/afd1780719bce0899a9c3f434f8a81436a0882bd00485a4fa8419cc1f74cd939.ctv
+#EXTINF:-1 group-title="",15 八大戏剧台
+https://epg.pw/stream/10ac1cef5fd55494e14017214a475c097e1e109b6f91bae7d7db99d2d65e71d0.ctv
+#EXTINF:-1 group-title="",16 三立戏剧
+https://epg.pw/stream/b3d1a9fc9c9aa548058f11a0135468b2415831f5581b74c1916cefe38fd45474.ctv
+#EXTINF:-1 group-title="",17 东森戏剧
+https://epg.pw/stream/86ea9ca5431a18858393833f78d9807338d27504df4dced7bd10396bba1a350d.ctv
+#EXTINF:-1 group-title="",18 八大戲劇台HD@@6
+https://epg.pw/stream/7cb06260585a867b1377e4436974fcb184bf828ef855fc44b62f96eea83b7a78.m3u8
+#EXTINF:-1 group-title="",19 LTV Drama (龙华戏剧)
+https://epg.pw/stream/4204e3c96996a80c0692b187e0b523a7851d0f589a54b46deb8b46f6e39f083f.m3u8
+#EXTINF:-1 group-title="",20 七彩戏剧 8M
+https://epg.pw/stream/d273f30a7e37ed5876feb524e32c8dc82bbad5ec991cb35b856061937c91d9dd.ctv
