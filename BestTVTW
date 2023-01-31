@@ -1,95 +1,42 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="",三立综合台
-https://epg.pw/stream/3e27660521bde48f22dd5aaaf3521c7900622e8f978df41228470243da5845d2.m3u8
-#EXTINF:-1 group-title="",三立综合台
 https://epg.pw/stream/a8ac5d3aecc3d2cb028c5ea5e2b21dd1c54221c0609b327dc365590777d68ac0.ctv
 #EXTINF:-1 group-title="",三立综合台
 https://epg.pw/stream/a9377b196f929200a3b842cd826f393bf9683d000c0d39f5d3139d925408fc58.ctv
-#EXTINF:-1 group-title="",三立综合台
+#EXTINF:-1 group-title="",三立台湾台
 https://epg.pw/stream/a417125c2505ec55aad02ef93441ed6afcab1ae01e245efe80ca301f9a0f2dad.ctv
 #EXTINF:-1 group-title="",三立戏剧台
 https://epg.pw/stream/b3d1a9fc9c9aa548058f11a0135468b2415831f5581b74c1916cefe38fd45474.ctv
 #EXTINF:-1 group-title="",三立戏剧台
 https://epg.pw/stream/7b470f308ed98c5ca5f22dcf643cda6768b0506004ea41ceb265be36191b337b.ctv
-#EXTINF:-1 group-title="",三立戏剧台
-https://epg.pw/stream/b3d1a9fc9c9aa548058f11a0135468b2415831f5581b74c1916cefe38fd45474.ctv
-#EXTINF:-1 group-title="",龙华戏剧
-https://epg.pw/stream/4204e3c96996a80c0692b187e0b523a7851d0f589a54b46deb8b46f6e39f083f.m3u8
-#EXTINF:-1 group-title="",龙华戏剧
+#EXTINF:-1 group-title="",龙华戏剧台
 https://epg.pw/stream/f89073f9650726b798dae8e7c0322975e36a91d9184a3a308edf01624e124604.ctv
-#EXTINF:-1 group-title="",八大戏剧台
-https://epg.pw/stream/7cb06260585a867b1377e4436974fcb184bf828ef855fc44b62f96eea83b7a78.m3u8
+#EXTINF:-1 group-title="",GTV八大第1台
+http://pull-l3-cny.douyincdn.com/third/stream-9dbd2556b180db11b62283739297981b.m3u8
+#EXTINF:-1 group-title="",GTV八大第1台
+http://50.7.220.74:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
+#EXTINF:-1 group-title="",GTV八大综合台
+http://pull-l3-cny.douyincdn.com/third/stream-5228b1fb91b765911e64c9843f989267.m3u8
 #EXTINF:-1 group-title="",八大戏剧台
 https://epg.pw/stream/10ac1cef5fd55494e14017214a475c097e1e109b6f91bae7d7db99d2d65e71d0.ctv
-#EXTINF:-1 group-title="",东森戏剧
+#EXTINF:-1 group-title="",GTV八大戏剧台
+http://pull-l3-cny.douyincdn.com/third/stream-d031f22e749d09f261df822eb69fd743.m3u8
+#EXTINF:-1 group-title="",GTV八大戏剧台
+http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
+#EXTINF:-1 group-title="",GTV八大戏剧台
+http://198.16.64.10:8278/badadrama/playlist.m3u8?tid=ME4E4734124647341246&ct=19225&tsum=c4e596572a79ad99675ee2137d1cc43d
+#EXTINF:-1 group-title="",东森戏剧台
 https://epg.pw/stream/86ea9ca5431a18858393833f78d9807338d27504df4dced7bd10396bba1a350d.ctv
-#EXTINF:-1 group-title="",緯來戲劇
-https://epg.pw/stream/f5e23b33cc5ea44d8b09e2c5fac57347feb7e5287f859fca04b9cf5ecbce8f18.m3u8
+#EXTINF:-1 group-title="",东森戏剧台
+https://epg.pw/stream/fc6eb1b07edeacc869b39f60d00140142b08e26c8dae183e87b4db2279009058.ctv
+#EXTINF:-1 group-title="",东森戏剧台
+http://198.16.64.10:8278/ettvdrama/playlist.m3u8?tid=ME1E3883142638831426&ct=19225&tsum=12c87a5fab65a0ba071cebce86313f45
+#EXTINF:-1 group-title="",东森戏剧台
+https://epg.pw/stream/86ea9ca5431a18858393833f78d9807338d27504df4dced7bd10396bba1a350d.ctv
+#EXTINF:-1 group-title="",东森綜合台
+https://epg.pw/stream/3672146752e575f7bbecaf35aa00fddd0ccbe8ae1f40c8b848480505ee11e3f0.ctv
 #EXTINF:-1 group-title="",EYE TV 戲劇台
 https://epg.pw/stream/98787453e5c45d8301a803c2b113f79fbb04f344052603fc440dd91b94b409ce.m3u8
 #EXTINF:-1 group-title="",EYE TV 戲劇台
 https://epg.pw/stream/afd1780719bce0899a9c3f434f8a81436a0882bd00485a4fa8419cc1f74cd939.ctv
-#EXTINF:-1 group-title="",东森戏剧
-https://epg.pw/stream/86ea9ca5431a18858393833f78d9807338d27504df4dced7bd10396bba1a350d.ctv
-#EXTINF:-1 group-title="",东森戏剧
-https://epg.pw/stream/fc6eb1b07edeacc869b39f60d00140142b08e26c8dae183e87b4db2279009058.ctv
-#EXTINF:-1 group-title="",东森綜合
-https://epg.pw/stream/3672146752e575f7bbecaf35aa00fddd0ccbe8ae1f40c8b848480505ee11e3f0.ctv
-
-#EXTINF:-1 group-title="",GTV八大第1台
-http://pull-l3-cny.douyincdn.com/third/stream-9dbd2556b180db11b62283739297981b.m3u8
-#EXTINF:-1 group-title="",GTV八大戏剧台
-http://pull-l3-cny.douyincdn.com/third/stream-d031f22e749d09f261df822eb69fd743.m3u8
-#EXTINF:-1 group-title="",GTV八大综合台
-http://pull-l3-cny.douyincdn.com/third/stream-5228b1fb91b765911e64c9843f989267.m3u8
-#EXTINF:-1 group-title="",GTV八大精彩台
-http://www.336699.live:1935/blockfour/4gtv-4gtv034.stream/playlist.m3u8
-#EXTINF:-1 group-title="",GTV八大综合台
-http://www.336699.live:1935/blockfour/4gtv-4gtv039.stream/playlist.m3u8
-#EXTINF:-1 group-title="",公视戏剧台
-http://www.336699.live:1935/blockfour/4gtv-4gtv042.stream/playlist.m3u8
-#EXTINF:-1 group-title="",靖洋戏剧台
-http://www.336699.live:1935/blockfour/4gtv-4gtv045.stream/playlist.m3u8
-#EXTINF:-1 group-title="",靖天戏剧台
-http://www.336699.live:1935/blockfour/4gtv-4gtv058.stream/playlist.m3u8
-#EXTINF:-1 group-title="",中视经典台
-http://www.336699.live:1935/blockfour/4gtv-4gtv080.stream/playlist.m3u8
-#EXTINF:-1 group-title="",TVBS欢乐台
-http://www.336699.live:1935/blockfour/4gtv-4gtv068.stream/playlist.m3u8
-#EXTINF:-1 group-title="",TVBS台HD
-http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
-#EXTINF:-1 group-title="",民视台HD
-http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
-#EXTINF:-1 group-title="",GTV八大第1台
-http://pull-l3-cny.douyincdn.com/third/stream-9dbd2556b180db11b62283739297981b.m3u8
-#EXTINF:-1 group-title="",GTV八大戏剧台
-http://pull-l3-cny.douyincdn.com/third/stream-d031f22e749d09f261df822eb69fd743.m3u8
-#EXTINF:-1 group-title="",GTV八大综合台
-http://pull-l3-cny.douyincdn.com/third/stream-5228b1fb91b765911e64c9843f989267.m3u8
-#EXTINF:-1 group-title="",GTV八大精彩台
-http://www.336699.live:1935/blockfour/4gtv-4gtv034.stream/playlist.m3u8
-#EXTINF:-1 group-title="",GTV八大综合台
-http://www.336699.live:1935/blockfour/4gtv-4gtv039.stream/playlist.m3u8
-#EXTINF:-1 group-title="",公视戏剧台
-http://www.336699.live:1935/blockfour/4gtv-4gtv042.stream/playlist.m3u8
-#EXTINF:-1 group-title="",靖洋戏剧台
-http://www.336699.live:1935/blockfour/4gtv-4gtv045.stream/playlist.m3u8
-#EXTINF:-1 group-title="",靖天戏剧台
-http://www.336699.live:1935/blockfour/4gtv-4gtv058.stream/playlist.m3u8
-#EXTINF:-1 group-title="",中视经典台
-http://www.336699.live:1935/blockfour/4gtv-4gtv080.stream/playlist.m3u8
-#EXTINF:-1 group-title="",TVBS欢乐台
-http://www.336699.live:1935/blockfour/4gtv-4gtv068.stream/playlist.m3u8
-#EXTINF:-1 group-title="",TVBS台HD
-http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
-#EXTINF:-1 group-title="",民视台HD
-http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
-#EXTINF:-1 group-title="",GTV八大戏剧台
-http://198.16.64.10:8278/badadrama/playlist.m3u8?tid=ME4E4734124647341246&ct=19225&tsum=c4e596572a79ad99675ee2137d1cc43d
-#EXTINF:-1 group-title="",东森戏剧台
-http://198.16.64.10:8278/ettvdrama/playlist.m3u8?tid=ME1E3883142638831426&ct=19225&tsum=12c87a5fab65a0ba071cebce86313f45
-#EXTINF:-1 group-title="",GTV八大第1台
-http://50.7.220.74:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
-#EXTINF:-1 group-title="",GTV八大戏剧台
-http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
